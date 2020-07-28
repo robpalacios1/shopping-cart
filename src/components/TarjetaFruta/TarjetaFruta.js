@@ -1,5 +1,4 @@
 import React from 'react'
-//import './TarjetaFruta.css'
 import styles from './TarjetaFruta.module.css'
 
 class TarjetaFruta extends React.Component {
